@@ -10,8 +10,9 @@ $(document).ready(function() {
     $("#vibe").show();
   } else if (age <=20) {
     $("#predult").show();
-    else if (age >=21) {
-    $("#")
-    }
-  };
+  }  else if (age >=21) {
+    $("#adult").show();
+  }  if (age >=9) {
+    $("#slide").show();
+  }
 });
