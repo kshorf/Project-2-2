@@ -1,8 +1,15 @@
-# {
+#ocean, #edge, #vibe,#predult {
   display: none;
 }
 
 .center {
   text-align: center;
-  .container-fluid;
+}
+
+#bullet {
+  list-style-type: none;
+}
+
+.bred {
+  text-shadow: 0 0 3px #FF0000;
 }
