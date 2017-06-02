@@ -10,7 +10,14 @@
   list-style-type: none;
 }
 
-.bred {
-  text-shadow: 0 0 3px #FF0000;
+.green {
+  : 0 0 3px #49ff07;
   font-size: x-large;
+  color: #49ff07;
 }
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
